@@ -2,7 +2,7 @@
 <dd>Documentation by Orwa</dd>
 
 ## **Components**
-⋅⋅⋅1.	Hardware
+<dd>1.	Hardware<\dd>
 ⋅⋅⋅2.	relay_sketch.ino
 3.	relay.py
 ## **Wiring Diagram**
