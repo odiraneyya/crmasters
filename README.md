@@ -7,7 +7,7 @@ Documentation by Orwa
 1. relay.py
 
 ## **Wiring Diagram**
-<img src="Wiring Diagram.svg">  
+<img height=4000 width=5500 src="Wiring Diagram.svg">  
 
 ## **Prerequisites (installation)**
 1. PySerial package. To install, type the following from the command prompt:
