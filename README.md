@@ -7,7 +7,7 @@ Documentation by Orwa
 1. relay.py
 
 ## **Wiring Diagram**
-<p> align="center">
+<p>
 <img src="Wiring Diagram.svg">
 </p>
 
