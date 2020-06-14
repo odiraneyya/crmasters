@@ -8,7 +8,7 @@ Documentation by Orwa
 
 ## **Wiring Diagram**
 <p>
-<img height=300 width=500 src="Wiring Diagram.svg">
+<img height="3000" width="5000" src="Wiring Diagram.svg">
 </p>
 
 ## **Prerequisites (installation)**
