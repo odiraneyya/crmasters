@@ -1,4 +1,4 @@
-# **Simple Relay Control Via Serial**
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `# **Simple Relay Control Via Serial**`
 Documentation by Orwa
 
 ## **Components**
