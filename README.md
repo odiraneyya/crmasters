@@ -8,7 +8,7 @@ Documentation by Orwa
 
 ## **Wiring Diagram**
 ![Wiring Diagram](Wiring Diagram.svg)
-Format: ![Alt text](url)
+Format: ![Alt text](svg)
 
 ## **Prerequisites (installation)**
 1. PySerial package. To install, type the following from the command prompt:
