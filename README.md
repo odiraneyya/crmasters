@@ -1,9 +1,9 @@
 # **Simple Relay Control Via Serial**
-<dd>Documentation by Orwa</dd>
+Documentation by Orwa
 
 ## **Components**
-<dd>1.	Hardware<\dd>
-⋅⋅⋅2.	relay_sketch.ino
+>1.	Hardware
+>>2.	relay_sketch.ino
 3.	relay.py
 ## **Wiring Diagram**
 
@@ -29,4 +29,3 @@
 ⋅⋅⋅2.	Note that if the hardware is not connected, an error message will be displayed.
 ⋅⋅⋅3.	Note that if the hardware is connected but being used by another program, an error message will be displayed
 
-<span style="color:blue">some *blue* text</span>
