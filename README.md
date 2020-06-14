@@ -8,7 +8,7 @@ Documentation by Orwa
 
 ## **Wiring Diagram**
 <p>
-<img height="3000" width="5000" src="Wiring Diagram.svg">
+<img height="300" width="500" src="Wiring Diagram.svg">
 </p>
 
 ## **Prerequisites (installation)**
@@ -17,8 +17,10 @@ Documentation by Orwa
 
 ## **Usage instructions (as a library)**
 1. Launch “idle” on windows
-1. Type: “import os;print(os.getcwd())”
- 
+1. Type: “import os;print(os.getcwd())”  
+<p>
+<img src="import_os_print.png">
+</p>
 1. Copy “relay.py” to subdirectory “Lib” within the folder above (displayed in idle in blue)
 1. Now you can use the library using “import relay” then calling the following functions:  
 a. relay.turn_on(): turns the relay on  
