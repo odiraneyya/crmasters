@@ -1,4 +1,4 @@
-<span style="color:blue">some *# **Simple Relay Control Via Serial*** text</span> 
+# **Simple Relay Control Via Serial**
 ⋅⋅⋅Documentation by Orwa
 
 ## **Components**
